@@ -34,10 +34,13 @@ Copy the HTML code from index.html into your project where you want the pricing 
 4. **Link the CSS files**
 
 Ensure the CSS files are linked correctly in the <head> section of your HTML:
-'''
+```html
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700">
 <link rel="stylesheet" href="reset.css">
 <link rel="stylesheet" href="app.css">
-'''
+```
+These should be defined above your existing stylesheets, as to not override existing styles.
 
-5. 
+5. **Customize the content**:
+
+Modify the HTML content inside the .panel-pricing-table div to suit your needs. 
