@@ -16,7 +16,7 @@ To use this pricing panel in your project, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-github-username/your-repo-name.git
+   git clone https://github.com/jacksonbelanger/pricing-panel.git
 
 2. **Include the necessary files in your project**:
 
