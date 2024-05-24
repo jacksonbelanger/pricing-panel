@@ -2,6 +2,8 @@
 
 This is a responsive and minimalist pricing panel. This component can be easily integrated into your projects to display different pricing tiers.
 
+![Pricing Panel Screenshot](https://github.com/jacksonbelanger/pricing-panel/blob/bffbf100d7f95296847d3ceaa25d48db73de34ca/icons/pricing-panel-screenshot.png)
+
 ## Features
 
 - Responsive design
